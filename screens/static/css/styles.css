@@ -72,3 +72,17 @@ h1 {
 .img-div {
     width: 50%;
 }
+
+.button {
+    width: 172px;
+    height: 41px;
+    margin-top: 20px;
+    border: none;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+    .button:hover {
+        cursor: pointer;
+        background-color: #c5c5c5;
+    }
